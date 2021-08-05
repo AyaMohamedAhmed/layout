@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="btnFindLocation">Find Location</string>
+    <string name="txtLocation">Location</string>
+    <string name="txtAddress">Address</string>
+    <string name="btnGetAddress">GeAddress</string>
+    <string name="btnSMS">Send SMS</string>
+    <string name="edtTxtPhoneNumber" />
+    <string name="btnViewMap">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="MapFragment">MapFragment</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+</resources>

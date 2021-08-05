@@ -1,0 +1,2 @@
+rootProject.name = "list_view_bad"
+include ':app'

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="Register">Register</string>
+    <string name="Login" />
+    <string name="LOGIN">Login</string>
+    <string name="ForgetPasssword">ForgetPasssword</string>
+    <string name="Google">Google</string>
+</resources>

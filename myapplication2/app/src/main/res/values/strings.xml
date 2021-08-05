@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myapplication</string>
+    <string name="Mobile">Mobile</string>
+    <string name="Close">Close</string>
+    <string name="phone">phone</string>
+    <string name="Next">Next</string>
+    <string name="message">Message</string>
+    <string name="close">Close</string>
+    <string name="Save">save</string>
+    <string name="load">load</string>
+</resources>

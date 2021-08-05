@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيقى</string>
+    <string name="Mobile">رقم الهاتف</string>
+    <string name="Close">اغلاق</string>
+    <string name="Next">التالى</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="message">الرساله</string>
+    <string name="close">اغلاق</string>
+</resources>

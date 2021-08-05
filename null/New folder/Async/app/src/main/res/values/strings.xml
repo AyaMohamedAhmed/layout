@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Async</string>
+    <string name="txtURL" />
+    <string name="btnDownload">Download</string>
+</resources>
